@@ -1,0 +1,12 @@
+.footer-copyright {
+    background-color: #00897b;
+    min-height: 50px;
+}
+
+.footer-copyright p {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
